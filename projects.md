@@ -2,6 +2,8 @@
 
 ## Business Problem
 
+## Solution Architecture
+
 ## Why I Built It
 
 ## Data Sources
